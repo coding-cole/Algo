@@ -48,4 +48,8 @@ cllist.append("C")
 cllist.append("D")
 cllist.prepend("B")
 cllist.prepend("A")
+
+print("After insertion(appending and prepending)")
+print("-"*20)
 cllist.print_list()
+print("-"*20)
